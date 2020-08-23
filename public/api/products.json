@@ -1,0 +1,84 @@
+{
+  "product": [
+    {
+      "title": "Product 1",
+      "id": 1,
+      "img": "static/test.jpg",
+      "price": 340,
+      "stock": false,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 2",
+      "id": 2,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": false,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 3",
+      "id": 3,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 4",
+      "id": 4,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 5",
+      "id": 5,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 6",
+      "id": 6,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 7",
+      "id": 7,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": false,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 8",
+      "id": 8,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 9",
+      "id": 9,
+      "img": "static/test.jpg",
+      "price": 100,
+      "stock": true,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Product 10",
+      "id": 10,
+      "img": "static/test.jpg",
+      "price": 1000,
+      "stock": false,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}
